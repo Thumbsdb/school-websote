@@ -1,0 +1,46 @@
+<DOCTYPE HTML>
+<html>
+<head>
+	<title>flexin'</title>
+	<style>
+		 table, th, td {
+		 text-align: center;
+		 border:2px solid coral;
+		 background-color: darkgray;
+		 border-radius: 5px;
+		} 
+		body {
+		 text-align: center;
+		 margin-top: 0px;
+		 font-family: "Monaco", monospace;
+		 background-image: url("1224063.jpg");
+		 /* opacity: 0.6; */
+		}
+		.bigboy {
+		 font-size: 25px;
+		 background-color: dodgerblue;
+		 border-radius: 5px;
+		 width: 1000px;
+		 margin-top: 10px;
+		 margin-bottom: 10px;
+		 padding: 2px;	
+		 opacity:0.75;
+		 }
+		 .bigboy:hover {
+		 display: block;
+		 text-align: center;
+		 font-size: 25px;
+		 background-color: dodgerblue;
+		 border-radius: 5px;
+		 width: 1000px;
+		 margin-top: 10px;
+		 margin-bottom: 10px;
+		 padding: 2px;
+		 opacity:1;
+		 }
+		 
+	</style>
+</head>
+<body>
+</body>
+</html>
